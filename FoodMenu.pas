@@ -187,7 +187,7 @@ end;
 
 function NormalFood.Describe: FoodString;
 begin
-     result := Format('[Normal food] %s by %s with reference from %s', [name, chef, refType]);
+     result := Format('[NORMAL FOOD] %s by %s with reference from %s', [name, chef, refType]);
 end;
 
 destructor NormalFood.Destroy;
