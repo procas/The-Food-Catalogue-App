@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.067,C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\FoodMenu.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.687,C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\FoodMenuCatalogue.dproj=C:\Code\FoodMenuCatalogue.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.339,C:\Code\FoodMenu.dfm=C:\Code\Food Menu Catalogue\FoodMenu.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.422,C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\FoodMenu.pas=C:\Code\FoodMenu.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.588,C:\Code\FoodMenuCatalogue.dproj=C:\Code\The Food Catalogue App\FoodMenuCatalogue.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.422,C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\FoodMenu.dfm=C:\Code\FoodMenu.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.535,C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\FoodMenu.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.535,C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\FoodMenu.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.862,C:\Code\Food Menu Catalogue\FoodMenu.dfm=C:\Code\The Food Catalogue App\FoodMenu.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.862,C:\Code\Food Menu Catalogue\FoodMenu.pas=C:\Code\The Food Catalogue App\FoodMenu.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.443,C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\FoodMenu.dproj=C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\FoodMenuCatalogue.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.339,C:\Code\FoodMenu.pas=C:\Code\Food Menu Catalogue\FoodMenu.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.010,=C:\Users\Diabo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

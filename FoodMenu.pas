@@ -5,7 +5,7 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
-// after deleting .gitignore
+// .gitignore deleted
 type
   TForm2 = class(TForm)
     AddFoodButton: TButton;
